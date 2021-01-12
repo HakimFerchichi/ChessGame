@@ -1,1 +1,1 @@
-These are the images of pieces
+These are the model's module
