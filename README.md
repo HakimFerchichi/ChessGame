@@ -6,6 +6,7 @@ Requirements:
 - pygame module
 - 12 Gb ram memory or > # if you want to train the model
 
+!!! git clone https://github.com/HakimFerchichi/ChessGame.git
 
 1/ Setting up python:
 
@@ -39,3 +40,30 @@ Here, package_name can refer to any Python package or library, such as Django fo
 There are a few more packages and development tools to install to ensure that we have a robust setup for our programming environment:
 
 $ sudo apt install -y build-essential libssl-dev libffi-dev python3-dev
+
+2/ Install pygame:
+
+Open the terminal and write this cmd line:
+
+$ sudo pip3 install pygame
+
+3/ Unzip files
+
+It is simple, open the terminal and tipe this cmd:
+
+$ cd ChessGame
+$ sudo unzip models.zip
+$ sudo unzip images.zip
+
+
+
+
+
+
+
+Now to play the game open the terminal and tipe:
+
+$ cd ChessGame
+$ python3 ChessMain.py
+
+and enjoy !
