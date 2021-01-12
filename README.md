@@ -47,14 +47,6 @@ Open the terminal and write this cmd line:
 
 $ sudo pip3 install pygame
 
-#3/ Unzip files
-
-It is simple, open the terminal and tipe this cmd:
-
-$ cd ChessGame
-$ sudo unzip models.zip
-$ sudo unzip images.zip
-
 
 
 
