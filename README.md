@@ -8,7 +8,7 @@ Requirements:
 
 !!! git clone https://github.com/HakimFerchichi/ChessGame.git
 
-1/ Setting up python:
+#1/ Setting up python:
 
 Ubuntu 20.04 and other versions of Debian Linux ship with Python 3 pre-installed. To make sure that our versions are up-to-date, 
 let’s update and upgrade the system with the apt command to work with Ubuntu’s Advanced Packaging Tool:
@@ -41,13 +41,13 @@ There are a few more packages and development tools to install to ensure that we
 
 $ sudo apt install -y build-essential libssl-dev libffi-dev python3-dev
 
-2/ Install pygame:
+#2/ Install pygame:
 
 Open the terminal and write this cmd line:
 
 $ sudo pip3 install pygame
 
-3/ Unzip files
+#3/ Unzip files
 
 It is simple, open the terminal and tipe this cmd:
 
